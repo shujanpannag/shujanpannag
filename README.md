@@ -13,9 +13,9 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning more about Flutter.
+- 🌱 I’m currently learning more about Golang.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: There are over 700 different programming languages.
+- ⚡ Fun fact: You are always living in the past.
 - 😯 Interests: ARM, Cloud, App Dev, and a little bit of everything XD.
 
 **Languages and Tools:**  
