@@ -3,9 +3,15 @@
 **Connect with Me**
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shujan-pannag-a1370b18a/"><img src=https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:shujanpannag@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
-<a href="https://www.instagram.com/shujan_pannag/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://www.linkedin.com/in/shujan-pannag-a1370b18a/">
+  <img align="left" alt="Shujan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/shujanpannag">
+  <img align="left" alt="Shujan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/shujan_pannag/">
+  <img align="left" alt="Shujan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 </p>
 
 <br/>
@@ -17,18 +23,16 @@
 
 **Tech Stack:**
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python);
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC);
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C);
-![Arduino](https://img.icons8.com/color/240/000000/arduino.png);
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white);
-![Dart](	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white);
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white);
-![Docker](https://img.icons8.com/color/48/000000/docker.pnghttps://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white);
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git);
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC);
-![Lightroom](https://img.icons8.com/color/48/000000/adobe-lightroom.png);
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator);
+<code><img height="20" src="https://img.icons8.com/color/50/000000/python.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/arduino.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/flutter.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/dart.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/golang.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/docker.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"></code>
 
 
 **GitHub Analytics**
