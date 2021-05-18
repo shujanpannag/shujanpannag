@@ -8,7 +8,6 @@
 [![GMAIL Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shujanpannag@gmail.com?subject=Olá%20again)](mailto:shujanpannag@gmail.com?subject=Ola%20again)
 
 <br/>
-<br/>
 
 - 🌱 I’m currently learning more about Golang.
 - ⚡ Fun fact: You are always living in the past.
