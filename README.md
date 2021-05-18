@@ -2,17 +2,10 @@
 
 **Connect with Me**
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shujan-pannag-a1370b18a/">
-  <img align="left" alt="Shujan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/shujanpannag">
-  <img align="left" alt="Shujan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/shujan_pannag/">
-  <img align="left" alt="Shujan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</p>
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shujanpannag/)](https://github.com/shujanpannag)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shujan-pannag-a1370b18a/)](https://www.linkedin.com/in/shujan-pannag-a1370b18a/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/shujan_pannag/)](https://www.instagram.com/shujan_pannag/)
+[![GMAIL Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shujanpannag@gmail.com?subject=Olá%20again)](mailto:shujanpannag@gmail.com?subject=Ola%20again)
 
 <br/>
 <br/>
@@ -37,9 +30,12 @@
 
 **GitHub Analytics**
 
-<p align="center">
-<a href="https://github.com/shujanpannag">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<p> These are currently the languages that I am using most in my projects hosted on GitHub ⤵ </p>
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shujanpannag&theme=dark)
+
+<h2>GitHub Stats</h2>
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=shujanpannag&show_icons=true&count_private=true&theme=dark)
+
+<hr/>
