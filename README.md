@@ -23,16 +23,16 @@
 
 **Tech Stack:**
 
-<code><img height="20" src="https://img.icons8.com/color/50/000000/python.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/c-programming.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/arduino.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/flutter.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/dart.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/golang.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/docker.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"></code>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
 
 **GitHub Analytics**
