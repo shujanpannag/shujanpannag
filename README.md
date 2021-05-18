@@ -13,6 +13,7 @@
 - ⚡ Fun fact: You are always living in the past.
 - 😯 Interests: ARM, Cloud, App Dev, and a little bit of everything XD.
 
+<br/>
 **Tech Stack:**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +26,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-
+<br/>
 
 **GitHub Analytics**
 
