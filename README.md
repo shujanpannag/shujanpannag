@@ -26,7 +26,7 @@
 
 ## These are currently the languages that I am using most in my projects hosted on GitHub
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shujanpannag&theme=graywhite&langs_count=5)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shujanpannag&theme=graywhite&langs_count=2)
 
 ## GitHub Stats
 
