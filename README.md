@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning more about Golang.
 - ⚡ Fun fact: You are always living in the past.
-- 😯 Interests: ARM, Cloud, App Dev, and a little bit of everything XD.
+- 😯 Interests: A little bit of everything XD.
 
 ## Tech Stack
 
