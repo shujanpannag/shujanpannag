@@ -3,9 +3,9 @@
 **Connect with Me**
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shujan-pannag-a1370b18a/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:shujanpannag@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/shujan_pannag/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shujan-pannag-a1370b18a/"><img src=https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:shujanpannag@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
+<a href="https://www.instagram.com/shujan_pannag/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 <br/>
@@ -21,11 +21,10 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC);
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C);
 ![Arduino](https://img.icons8.com/color/240/000000/arduino.png);
-![Flutter](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png);
-![Dart](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png);
-![Golang](https://img.icons8.com/color/48/000000/golang.png);
-![Docker](https://img.icons8.com/color/48/000000/docker.png);
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask);
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white);
+![Dart](	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white);
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white);
+![Docker](https://img.icons8.com/color/48/000000/docker.pnghttps://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white);
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git);
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC);
 ![Lightroom](https://img.icons8.com/color/48/000000/adobe-lightroom.png);
