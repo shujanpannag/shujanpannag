@@ -30,5 +30,5 @@
 
 ## GitHub Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=shujanpannag&show_icons=true&count_private=true&theme=graywhite&ayout=compact)
+![My github stats](https://github-readme-stats.vercel.app/api?username=shujanpannag&show_icons=true&count_private=true&theme=graywhite&ayout=compact&hide=issues&langs_count=5)
 
