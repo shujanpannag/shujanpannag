@@ -11,7 +11,7 @@
 - ⚡ Fun fact: You are always living in the past.
 - 😯 Interests: ARM, Cloud, App Dev, and a little bit of everything XD.
 
-## Tech Stack:
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
